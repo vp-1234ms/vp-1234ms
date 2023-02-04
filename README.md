@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vaibhav Pawar
-- 👀 I’m interested in Coding
-- 👀 I’m interested in learning new programming skills
+- 👀 I’m interested in Data Science, Data Analytics, Big Data, AI ,ML AND DL
+-  Aim to automate the world 
+- 👀 Learner
 
 
 <!---
