@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **Python, Statistics, EDA, Data Analysis,**
+- 💬 Ask me about **Python, Statistics, EDA, Data Analysis, ML,**
 
 - 📫 How to reach me **vaibhav444pawar555@gmail.com**
 
