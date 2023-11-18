@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m life long learner
 
-- 💬 Ask me about **Python, Statistics, EDA, Data Analysis, ML,**
+- 💬 Ask me about **Python, Statistics, EDA, Data Analysis, DL,ML**
 
 - 📫 How to reach me **vaibhav444pawar555@gmail.com**
 
