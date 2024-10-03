@@ -11,9 +11,9 @@ You said:
 
 - 🌱 I’m life long learner
 
-- 💬 Ask me about **Python, Statistics, EDA, Data Analysis, DL,ML**
+- 💬 Ask me about **Data Analysis, DL,ML, Big Data**
 
-- 📫 How to reach me **vaibhav444pawar555@gmail.com**
+- 📫 How to reach me **vaibhavpawar8557@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
