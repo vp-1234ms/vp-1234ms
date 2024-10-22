@@ -11,7 +11,7 @@ You said:
 
 - 🌱 I’m life long learner
 
-- 💬 Ask me about **Data Analysis, DL,ML, Big Data**
+- 💬 Ask me about **Data Analysis, DL,ML, Big Data, AWS Cloud**
 
 - 📫 How to reach me **vaibhavpawar8557@gmail.com**
 
